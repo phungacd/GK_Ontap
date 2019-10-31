@@ -1,0 +1,138 @@
+[
+  {
+    "matrochoi": "01",
+    "tentrochoi": "Contra",
+    "ngaythamgia": "23/09/2019",
+    "tenuser": ["phung","khuong"],
+    "diemdatduoc": 20,
+    "cacthongtinkhac":
+      {
+        "luotchoitoida":3,
+        "mota": "Game ban sung goc nhin 2D",
+        "nhasanxuat": "TPHCM"
+      }
+  },
+  {
+    "matrochoi": "02",
+    "tentrochoi": "X-mega",
+    "ngaythamgia": "24/09/2019",
+    "tenuser": ["Phung","Hai"],
+    "diemdatduoc": 40,
+    "cacthongtinkhac":
+    {
+      "luotchoitoida":3,
+      "mota": "Game robot",
+      "nhasanxuat": "TPHCM"
+    }
+  },
+  {
+    "matrochoi": "03",
+    "tentrochoi": "May Luy",
+    "ngaythamgia": "23/09/2019",
+    "tenuser": ["Hieu","khuong"],
+    "diemdatduoc": 70,
+    "cacthongtinkhac":
+    {
+      "luotchoitoida":4,
+      "mota": "Game danh nhau",
+      "nhasanxuat": "TPHCM"
+    }
+  },
+  {
+    "matrochoi": "04",
+    "tentrochoi": "Biker I",
+    "ngaythamgia": "01/07/2019",
+    "tenuser": ["Hai","Tung"],
+    "diemdatduoc": 70,
+    "cacthongtinkhac":
+    {
+      "luotchoitoida":4,
+      "mota": "Game dua xe",
+      "nhasanxuat": "TPHCM"
+    }
+  },
+
+  {
+    "matrochoi": "05",
+    "tentrochoi": "Dua Xe Motor",
+    "ngaythamgia": "02/05/2019",
+    "tenuser": ["Kien","Luan"],
+    "diemdatduoc": 80,
+    "cacthongtinkhac":
+    {
+      "luotchoitoida":3,
+      "mota": "Dua Xe moto tren thanh pho",
+      "nhasanxuat": "TPHCM"
+    }
+  },
+  {
+    "matrochoi": "06",
+    "tentrochoi": "Dua Xe Oto",
+    "ngaythamgia": "13/03/2019",
+    "tenuser": ["Thien","Minh"],
+    "diemdatduoc": 90,
+    "cacthongtinkhac":
+    {
+      "luotchoitoida":2,
+      "mota": "Dua Xe Oto tren thanh pho",
+      "nhasanxuat": "TPHCM"
+    }
+  },
+  {
+    "matrochoi": "07",
+    "tentrochoi": "Ban may bay",
+    "ngaythamgia": "22/07/2019",
+    "tenuser": ["Thien","Minh"],
+    "diemdatduoc": 50,
+    "cacthongtinkhac":
+    {
+      "luotchoitoida":3,
+      "mota": "Ban may bay tren bien",
+      "nhasanxuat": "TPHCM"
+    }
+  },
+  {
+    "matrochoi": "08",
+    "tentrochoi": "Lai Phi Thuyen",
+    "ngaythamgia": "23/04/2019",
+    "tenuser": ["Hai","Minh"],
+    "diemdatduoc": 100,
+    "cacthongtinkhac":
+    {
+      "luotchoitoida":3,
+      "mota": "Lai Phi Thuyen Ngoai Khong Gian",
+      "nhasanxuat": "TPHCM"
+    }
+  },
+  {
+    "matrochoi": "09",
+    "tentrochoi": "Giai Do",
+    "ngaythamgia": "26/06/2019",
+    "tenuser": ["Luan","Minh"],
+    "diemdatduoc": 67,
+    "cacthongtinkhac":
+    {
+      "luotchoitoida":5,
+      "mota": "Dua Xe Oto tren thanh pho",
+      "nhasanxuat": "TPHCM"
+    }
+  },
+  {
+    "matrochoi": "10",
+    "tentrochoi": "Dua Xe Oto",
+    "ngaythamgia": "18/03/2019",
+    "tenuser": ["Kien","Hoa"],
+    "diemdatduoc": 80,
+    "cacthongtinkhac":
+    {
+      "luotchoitoida":4,
+      "mota": "Giai do hinh ghep",
+      "nhasanxuat": "TPHCM"
+    }
+  }
+
+
+
+
+
+]
