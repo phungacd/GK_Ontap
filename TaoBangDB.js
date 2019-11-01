@@ -10,7 +10,7 @@ AWS.config.update({
 var dynamodb = new AWS.DynamoDB();
 
 var dulieu = {
-    TableName: "Phims",
+    TableName: "Movies",
     KeySchema: [
         {AttributeName: "year", KeyType: "HASH"},
          {AttributeName: "title", KeyType: "RANGE"}
@@ -27,24 +27,7 @@ var dulieu = {
         WriteCapacityUnits: 10
     }
 };
-var dulieu = {
-    TableName: "Phims",
-    KeySchema: [
-        {AttributeName: "matrochoi", KeyType: "HASH"},
-        {AttributeName: "tentrochoi", KeyType: "RANGE"}
 
-    ],
-
-    AttributeDefinitions: [
-        {AttributeName: "matrochoi", AttributeType: "N"},
-        {AttributeName: "tentrochoi", AttributeType: "S"}
-
-    ],
-    ProvisionedThroughput: {
-        ReadCapacityUnits: 10,
-        WriteCapacityUnits: 10
-    }
-};
 dynamodb.createTable(dulieu,function (err,data) {
     if (err){
         console.error("Khong the tao bang!!!!",JSON.stringify(err,null,2));

@@ -14,7 +14,7 @@ var dulieu1 = {
     
 };
 var dulieu2 = {
-    TableName:"Phims"
+    TableName:"Movies"
 
 };
 
